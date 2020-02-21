@@ -1,0 +1,7 @@
+[12:49:55pm][][/servicios/ajax_materias_primas getData]:UPDATE materia_prima_ingresada 
+				SET estado_materia_prima_idestado_materia_prima = ? 
+				WHERE materia_prima_ingresada.id_materia_prima_ingresada = ?[][12:51:17pm][][/servicios/ajax_materias_primas getData]:UPDATE materia_prima_ingresada 
+				SET estado_materia_prima_idestado_materia_prima = ? 
+				WHERE materia_prima_ingresada.id_materia_prima_ingresada = ?[][12:52:21pm][][/servicios/ajax_materias_primas getData]:UPDATE materia_prima_ingresada 
+				SET estado_materia_prima_idestado_materia_prima = ? 
+				WHERE materia_prima_ingresada.id_materia_prima_ingresada = ?[]
